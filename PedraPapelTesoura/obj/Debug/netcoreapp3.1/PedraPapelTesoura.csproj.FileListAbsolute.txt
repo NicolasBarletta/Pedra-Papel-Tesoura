@@ -1,0 +1,13 @@
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.exe
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.deps.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.runtimeconfig.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.runtimeconfig.dev.json
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.dll
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\bin\Debug\netcoreapp3.1\PedraPapelTesoura.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.csprojAssemblyReference.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.AssemblyInfoInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.AssemblyInfo.cs
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.dll
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.pdb
+C:\Users\Nicolas Barletta\Desktop\TestesCSharp\PedraPapelTesoura\obj\Debug\netcoreapp3.1\PedraPapelTesoura.genruntimeconfig.cache
